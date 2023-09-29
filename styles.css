@@ -1,7 +1,21 @@
 body {
     font-family: Helverica, "New Times Roman", sans-serif;
+    /* width: 500px; */
+    background-color: blanchedalmond;
+}
+
+.card {
+    margin: 5px auto;
+    width: 300px;
+    background-color: white;
 }
 
 .header {
     background-color: #e7e744;
+    text-align: center;
+}
+
+.links {
+    padding: 5px 30px;
+    margin: 16px 16px;
 }
